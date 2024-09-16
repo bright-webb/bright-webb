@@ -1,7 +1,8 @@
 ## Hi there 👋
 ###
 
-<p align="left">- Hi there! 👋 I'm a passionate software developer and tech enthusiast with a strong interest in building tools that empower people to collaborate, create, and solve real-world challenges. My projects often revolve around real time communication, web development, and creating efficient, scalable systems.<br>-I enjoy diving into low level systems programming with Go, creating libraries, SDKs, and custom tools that enable developers like me to work more efficiently. Read more about me here: https://bright-webilor.com.ng</p>
+- Hi there! 👋 I'm a passionate software developer and tech enthusiast with a strong interest in building tools that empower people to collaborate, create, and solve real-world challenges. My projects often revolve around real time communication, web development, and creating efficient, scalable systems.
+- I enjoy diving into low level systems programming with Go, creating libraries, SDKs, and custom tools that enable developers like me to work more efficiently. Read more about me here: https://bright-webilor.com.ng
 
 ###
 
