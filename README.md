@@ -6,13 +6,11 @@
 ###
 
 - 🔭 I’m currently working on [**Ballocs**](https://ballocs.com), a remote collaboration platform for tech professionals.
-- 🌱 I’m currently learning **Rust**, **Go**, and all things **real-time communication**
+- 🌱 I’m currently learning **Rust** and all things **real time communication**
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about **WebSockets**, **Web Application**, or anything nerdy!
 - ⚡ Fun fact: I write code that sometimes works on the first try
-
-<h2 align="left">About Me</h2>
 
 
 <div align="center">
