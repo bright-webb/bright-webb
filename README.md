@@ -1,17 +1,55 @@
-## Hi there 👋
+## Hi there
 ###
 
-- Hi there! 👋 I'm a passionate software developer and tech enthusiast with a strong interest in building tools that empower people to collaborate, create, and solve real-world challenges. My projects often revolve around real time communication, web development, and creating efficient, scalable systems.
-- I enjoy diving into low level systems programming with Go, creating libraries, SDKs, and custom tools that enable developers like me to work more efficiently. Read more about me here: https://bright-webilor.com.ng
+- I'm a **Full Stack Developer** with a strong focus on backend development, real-time systems, and developer first solutions. I build scalable web apps, intuitive APIs, and modern # 💼 What I Do
 
-###
+- 🔧 **Backend** – Laravel, Go, Redis, PostgreSQL, MySQL   
+- 🖼️ **Frontend** – React, TypeScript, Tailwind, MUI  
+- ☁️ **Cloud & DevOps** – Docker, CI/CD, AWS, GCP  
+- 💻 **Open Source & SaaS Products** – I ship tools people actually use
 
-- 🔭 I’m currently working on [**Ballocs**](https://ballocs.com), a remote collaboration platform for tech professionals.
-- 🌱 I’m currently learning **Rust** and all things **real time communication**
-- 👯 I’m looking to collaborate on exciting and challenging projects
-- 💬 Ask me about **WebSockets**, **Web Application**, or anything nerdy!
-- ⚡ Fun fact: I write code that sometimes works on the first try
+---
 
+## Featured Projects
+
+### [Ballocs Team Collaboration Platform](https://github.com/Bevynile/cohub_frontend)
+> A decentralized hub for building and managing diverse project teams.  
+Built with Laravel + React + Redis.
+
+- Real-time messaging, time tracking, and project management
+- Privacy first architecture with end-to-end encryption
+
+---
+
+### [Cherryio WebSocket Server](https://github.com/bright-webb/cherryio)
+> Lightweight Go based WebSocket server enabling real time communication across applications.
+
+- Supports pub/sub, broadcast, and direct messaging
+- Seamless integration with PHP backends and TS frontends
+- Redis powered message persistence and queuing
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [bright-webilor.com.ng](https://www.bright-webilor.com.ng)
+- 📬 Email: hey@bright-webilor.com.ng
+- 💼 [LinkedIn](https://linkedin.com/in/bright-webilor-926604193)
+- 🐦 [Twitter/X](https://twitter.com/bright__webb)
+
+---
+
+## ⚙️ Tech Stack
+
+![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-d82c20?style=flat&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758f?style=flat&logo=mysql&logoColor=white)
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bright-webb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
