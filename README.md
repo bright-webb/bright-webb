@@ -1,7 +1,9 @@
 ## Hi there
 ###
 
-- I'm a **Full Stack Developer** with a strong focus on backend development, real-time systems, and developer first solutions. I build scalable web apps, intuitive APIs, and modern # 💼 What I Do
+- I'm a **Full Stack Developer** with a strong focus on backend development, real-time systems, and developer first solutions. I build scalable web apps, intuitive APIs, and modern developer tools that solve real-world problems.
+
+# What I Do
 
 - 🔧 **Backend** – Laravel, Go, Redis, PostgreSQL, MySQL   
 - 🖼️ **Frontend** – React, TypeScript, Tailwind, MUI  
@@ -36,20 +38,6 @@ Built with Laravel + React + Redis.
 - 📬 Email: hey@bright-webilor.com.ng
 - 💼 [LinkedIn](https://linkedin.com/in/bright-webilor-926604193)
 - 🐦 [Twitter/X](https://twitter.com/bright__webb)
-
----
-
-## ⚙️ Tech Stack
-
-![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-d82c20?style=flat&logo=redis&logoColor=white)
-![React](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758f?style=flat&logo=mysql&logoColor=white)
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bright-webb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
